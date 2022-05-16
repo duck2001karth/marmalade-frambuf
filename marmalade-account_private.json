@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marmalade-frambu",
+  "private_key_id": "66153296a4b95fccc05ec26bddf6fc37ff684e9d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnVgnGWB8Tsc7n\nDQZJWnb3RFK2ZTmPz8mlGqwQnSQmPMtKZavxz3oW/TNRn5O0859m0kO5RuylLSFt\nniy2ZW7REFZNEAgdylW76wmvpWeUgJSLZ+RbYEAPXqYA+e4jzJkdv+vMeHq7Vucq\nZ4cMXAgJYjE/4ZkCmIml9Rdp8N6wvELH7J1rRRE43SCfIJAOjeCc4dU+x/Je2qwM\n+exYiwVWnPMyFHv0CbyX2dh/9+LgiGeMfJWc4b+drv+QTiDlOQf74kYq6KI8dQJf\npcPDFChqVQ/cO/+4cyvCCaatRlErPWNE/WPGdzbqf9jXepUo9EWb1sBIz3lVCMWl\nJ2rWtZTHAgMBAAECggEAAXXix/Rk8QsQPzwB3goIF8hk4GqpwfOSUvqUneCBPEQz\nkgapJYcmDaVQGVpHM8Eclw0mwis4TYjDTe2ffkgMW47E8g89wuTNMsKuZvYOnWEx\n6rWRbKq+ZGPzFvcXeQCEJZpTOImkqJXtlpUovJbhCxPsUh5p83fZW7Vz6tzLVMeM\nQKJeyt1+LZNUAkHEMLBhNUSE+FUfSFoN7dbyhs534s0HZ0phNBBmaXg6bdgIOCKY\nEiAdZnieQF5rNnEULvwvU6+FhdIbdEiGNBZp+80/Y4ny8QO1Sm6fnhQgD/rkJZBS\n7O4XrXZu2gS1FEw08dWR6BpMCik3h97SiFS47OPegQKBgQDSUMK/N6GEsezBA7Z9\nK1x0UDjvklkMmfh1WswMc2fa72uGAjAhzaSanbvxabd7muoERNVTqB+wTAYYZWlR\nUTfaCNcu3skWTvunwpmHbZN5jqFOvhfsYTLGI0ZyjOT/CI37GcnRZhRshFDYRwfK\nTy25pJEtPsyJHpR61IarBI581wKBgQDLr0bElfkDGQ/jX4r+GKTwCaYa/6L8YdLf\nBe1DXKLbENqChtBwVDkPPPaQOr6VvhgHqD3Y929jBGF7Xq3t+6wBQImntB752cqX\nNPB0oQkZ6zcerCv+sMzn/cI+0hRI+xcFJWAOGZ+EYQKmmp0zj0Bln3XYpvzPgJcF\nYC2dFdM5kQKBgAKgA25DkX6Igf3+v95cFjFVdwB2gSoJGfLNCVL2dctjxaHMkTE6\n0d0kLt5ahXHDgzw+Z7M9m/elW0YerevX6ayNA7KQEU53+egkI6pvEbIot5a2BLJs\nnCeg9RYk8A7G2o7RyZUVgxe/pwqsCErcJiP1C+LWr9LeUNgfovarfePNAoGBALpA\nlN2+pe2HRVgNTfP8ZRZ6PEID8O4IJeN6b/NhCip3xtgEnyWYXnTosi5BCXW0VhTq\na2OzH0/T+a/ua+1qbWbXtQh9VLXzyaVq61Y6yy/APq71kWVcFoMtMCpxv8rcj7hM\n7QD3vT4310yxpX44SBKlNgXe7N5yH6byw8MY6gWBAoGBAL4kTD8OZHsNxiXesuJ5\nYKI/eTxLDvyrOxcHpn25YRNHKka0XoFSZlIKgQj0X8fAK3gC874aloPLjT/RYbeU\nlWR5ClFqh/py7EAdHpjYi6gO3rxizgQs3LdQI/tEsuHeFr/LbCWoSmBvcIh0okoK\nV4ZWFEa+6bXjyq2t3vIPaeaq\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-v7r5q@marmalade-frambu.iam.gserviceaccount.com",
+  "client_id": "117908037275970943744",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-v7r5q%40marmalade-frambu.iam.gserviceaccount.com"
+}
